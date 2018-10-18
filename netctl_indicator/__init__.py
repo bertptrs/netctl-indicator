@@ -1,6 +1,6 @@
 import argparse
 import sys
-import status
+from . import status
 
 
 class App:
